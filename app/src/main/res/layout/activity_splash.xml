@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        app:srcCompat="@drawable/mainicon"
+        android:layout_centerInParent="true"
+
+        />
+
+    <TextView
+        android:id="@+id/txtfrom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="5dp"
+        android:text="from"
+        android:layout_above="@id/txtgsaproj"
+        android:fontFamily="@font/cp"/>
+        />
+
+    <TextView
+        android:id="@+id/txtgsaproj"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GSA PROJECTS"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:layout_alignParentBottom="true"
+        android:fontFamily="@font/cpb"
+        android:textSize="17dp"
+        android:textColor="@color/purple1"/>
+        />
+
+
+</RelativeLayout>

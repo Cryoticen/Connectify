@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/drawable-anydpi/arrowback.xml" value="0.3828125" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/drawable-anydpi/arrowfront.xml" value="0.3828125" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/drawable-anydpi/send.xml" value="0.3828125" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/drawable/backarrow.xml" value="2.296875" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/drawable/gradient.xml" value="0.3828125" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/drawable/messagebackground.xml" value="0.3828125" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/drawable/mybutton.xml" value="0.3828125" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/layout/activity_call_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/layout/activity_chat.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/layout/activity_chat_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/layout/activity_choose_register.xml" value="0.5" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/layout/activity_otp_authentication.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/layout/activity_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/layout/activity_register_email.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/layout/activity_set_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/layout/activity_specific_chat.xml" value="0.33" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/layout/activity_update_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/layout/bar_layout.xml" value="0.25" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Connectify/app/src/main/res/layout/mybutton.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Projects/Connectify/app/src/main/res/layout/activity_choose_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/George Sachinoglou/Desktop/AndroidStudioProjects/Projects/Connectify/app/src/main/res/layout/activity_register_email.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.35260416666666666" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
