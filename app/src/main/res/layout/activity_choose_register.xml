@@ -11,7 +11,7 @@
         android:id="@+id/fb"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:background="@android:color/holo_blue_dark"
+        android:background="#5858FA"
         android:text="Sign up with Facebook"
         android:textColor="#ffffff"
         android:textStyle="bold"
